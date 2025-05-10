@@ -1,0 +1,1 @@
+# NVT-Umbrella-Sampling-and-Free-Energy-Profiling-using-WHAM
